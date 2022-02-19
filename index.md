@@ -6,10 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Introduction Python
+2. Knowledge
+3. Computers Are Machines
+4. Programming Language
 
 ### Day 2
-
+1. Introduction Python
+2. Learn Variables
+3. Learn Type Data Strings
 ### Day 3
 
 
