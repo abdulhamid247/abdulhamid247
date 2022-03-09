@@ -16,7 +16,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. Learn Variables
 3. Learn Type Data Strings
 ### Day 3
-
+1. Introduction And While Loop
+2. Learn While Loop
+3. Learn For Loop
 
 ```markdown
 Syntax highlighted code block
