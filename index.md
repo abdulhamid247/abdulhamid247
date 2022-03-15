@@ -20,4 +20,5 @@
 ## Week 4
 1. Learn Nested Conditionals
 2. Pengenalan Input Dan Output
-3. Learn Exhaustive Enumeration
+
+## Week 5
