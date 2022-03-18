@@ -26,6 +26,9 @@
 2. Learn Function
 3. Learn Fungsi Lambda
 
+## Week 6
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
