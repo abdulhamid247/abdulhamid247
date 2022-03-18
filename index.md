@@ -22,7 +22,9 @@
 2. Pengenalan Input Dan Output
 
 ## Week 5
-
+1. Introduction to Function
+2. Learn Function
+3. Learn Fungsi Lambda
 
 ### Markdown
 
